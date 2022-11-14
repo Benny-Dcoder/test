@@ -1,0 +1,35 @@
+-----------  1.Print Array ------------
+
+Problem Statement :
+Take an input array and print the array.
+
+Input Format :
+ n
+
+ Array Elements
+
+Sample Input :
+ 5
+
+ 1  3  2  5  4
+
+Sample Output :
+ 1  3  2  5  4
+
+
+----------- 2.Print The duplicates ----------
+Problem Statement :
+Given a sorted array / list of integers. You have to print the duplicate elements from that array.
+
+Input Format :
+ n  
+
+ Array Elements
+
+Sample Input :
+ 5  
+
+ 1  2  2  5  5
+
+Sample Output :
+ 2  5   
